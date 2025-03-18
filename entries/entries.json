@@ -1,92 +1,89 @@
 {
     "Section-1": [
-        {
-            "title": "Entry 1A",
-            "description": "Description for Entry 1A in Section 1."
-        }
+        { "title": "Spilling a drink on a Big Brother’s new augmented boots", "description": "" },
+        { "title": "Making a sarcastic remark about the Grandfather's leadership", "description": "" },
+        { "title": "Refusing to acknowledge a Little Brother's presence", "description": "" },
+        { "title": "Stealing from the syndicate’s supply stash", "description": "" },
+        { "title": "Insulting a Big Sister's intelligence in front of others", "description": "" },
+        { "title": "Publicly mocking the cybernetics of a Great Brother", "description": "" },
+        { "title": "Spreading rumors about the syndicate’s power", "description": "" },
+        { "title": "Talking down to a Cousin in front of their family", "description": "" },
+        { "title": "Dissing the syndicate’s code in public", "description": "" },
+        { "title": "Refusing to do business with the faction out of pride", "description": "" },
+        { "title": "Attempting to sabotage the syndicate's trade routes", "description": "" },
+        { "title": "Trying to steal technology from the syndicate’s vaults", "description": "" },
+        { "title": "Ignoring a Little Sister’s warning", "description": "" },
+        { "title": "Disrespecting a Great Sister during a high-profile meeting", "description": "" },
+        { "title": "Breaking a deal with the syndicate without warning", "description": "" },
+        { "title": "Disrupting a family member's event for your own benefit", "description": "" },
+        { "title": "Sending a rival to intimidate the syndicate’s members", "description": "" },
+        { "title": "Engaging in espionage against a Great Brother’s personal interests", "description": "" },
+        { "title": "Accusing a Little Brother of betrayal without proof", "description": "" },
+        { "title": "Mocking the syndicate’s traditional feasts", "description": "" },
+        { "title": "Allowing a rival faction to infiltrate the syndicate’s operations", "description": "" },
+        { "title": "Disrupting a mission assigned to a Big Sister", "description": "" },
+        { "title": "Jeopardizing the syndicate’s reputation for personal gain", "description": "" },
+        { "title": "Interfering with the syndicate’s influence in the city", "description": "" },
+        { "title": "Accidentally stepping on a Little Sister's prized item", "description": "" },
+        { "title": "Publicly accusing the syndicate of weak leadership", "description": "" },
+        { "title": "Setting up a false deal with another faction", "description": "" },
+        { "title": "Faking loyalty to the syndicate while aiding a rival", "description": "" }
     ],
     "Section-2": [
-        {
-            "title": "Entry 2A",
-            "description": "Description for Entry 2A in Section 2."
-        }
+        { "title": "Disrespecting a Great Brother’s territory", "description": "" },
+        { "title": "Disparaging the syndicate’s technological superiority", "description": "" },
+        { "title": "Openly challenging a Big Sister’s authority", "description": "" },
+        { "title": "Trying to steal a Cousin’s family heirloom", "description": "" },
+        { "title": "Attempting to overthrow a Little Brother during a business deal", "description": "" },
+        { "title": "Telling lies about a Big Brother’s exploits", "description": "" },
+        { "title": "Refusing to join forces when the syndicate needs help", "description": "" },
+        { "title": "Daring to stand against a Great Sister’s orders", "description": "" },
+        { "title": "Denying the syndicate the respect it deserves in front of outsiders", "description": "" },
+        { "title": "Trying to undermine a Big Brother’s leadership in a new territory", "description": "" },
+        { "title": "Slandering the Grandfather’s legacy", "description": "" },
+        { "title": "Infiltrating a Little Brother’s mission and causing chaos", "description": "" },
+        { "title": "Falsely accusing a Big Sister of an error in judgment", "description": "" },
+        { "title": "Killing a member of the syndicate and pinning the blame on a rival faction", "description": "" },
+        { "title": "Getting in the way of the syndicate’s trade deals", "description": "" },
+        { "title": "Attempting to blackmail a family member into submission", "description": "" },
+        { "title": "Leaving a rival faction to sabotage a Little Sister’s plans", "description": "" },
+        { "title": "Mocking the family’s bond in front of the rival factions", "description": "" },
+        { "title": "Sabotaging the syndicate’s operations from within", "description": "" },
+        { "title": "Disrespecting the syndicate’s rules of conduct in a public space", "description": "" },
+        { "title": "Not showing proper respect to a Big Sister in front of outsiders", "description": "" },
+        { "title": "Setting up an ambush against a Little Brother", "description": "" },
+        { "title": "Betraying a Cousin for a rival faction’s gain", "description": "" },
+        { "title": "Not supporting the syndicate in times of crisis", "description": "" },
+        { "title": "Leaving a member stranded during a high-risk mission", "description": "" },
+        { "title": "Using the syndicate’s name to threaten others but failing to back it up", "description": "" }
     ],
     "Section-3": [
-        {
-            "title": "Entry 3A",
-            "description": "Description for Entry 3A in Section 3."
-        }
-    ],
-    "Section-4": [
-        {
-            "title": "Entry 4A",
-            "description": "Description for Entry 4A in Section 4."
-        }
-    ],
-    "Section-5": [
-        {
-            "title": "Entry 5A",
-            "description": "Description for Entry 5A in Section 5."
-        }
-    ],
-    "Section-6": [
-        {
-            "title": "Entry 6A",
-            "description": "Description for Entry 6A in Section 6."
-        }
-    ],
-    "Section-7": [
-        {
-            "title": "Entry 7A",
-            "description": "Description for Entry 7A in Section 7."
-        }
-    ],
-    "Section-8": [
-        {
-            "title": "Entry 8A",
-            "description": "Description for Entry 8A in Section 8."
-        }
-    ],
-    "Section-9": [
-        {
-            "title": "Entry 9A",
-            "description": "Description for Entry 9A in Section 9."
-        }
-    ],
-    "Section-10": [
-        {
-            "title": "Entry 10A",
-            "description": "Description for Entry 10A in Section 10."
-        }
-    ],
-    "Section-11": [
-        {
-            "title": "Entry 11A",
-            "description": "Description for Entry 11A in Section 11."
-        }
-    ],
-    "Section-12": [
-        {
-            "title": "Entry 12A",
-            "description": "Description for Entry 12A in Section 12."
-        }
-    ],
-    "Section-13": [
-        {
-            "title": "Entry 13A",
-            "description": "Description for Entry 13A in Section 13."
-        }
-    ],
-    "Section-14": [
-        {
-            "title": "Entry 14A",
-            "description": "Description for Entry 14A in Section 14."
-        }
-    ],
-    "Section-15": [
-        {
-            "title": "Entry 15A",
-            "description": "Description for Entry 15A in Section 15."
-        }
+        { "title": "Harming a Little Sister’s reputation publicly", "description": "" },
+        { "title": "Hitting a family member where it hurts during negotiations", "description": "" },
+        { "title": "Attempting to steal critical information from the syndicate", "description": "" },
+        { "title": "Infiltrating the syndicate’s personal affairs without authorization", "description": "" },
+        { "title": "Assaulting a Big Brother without provocation", "description": "" },
+        { "title": "Degrading the syndicate’s traditions in front of outside enemies", "description": "" },
+        { "title": "Attempting to undermine the Grandfather’s authority in a public forum", "description": "" },
+        { "title": "Making deals with factions that are known enemies of the syndicate", "description": "" },
+        { "title": "Infiltrating a faction member’s personal life for blackmail", "description": "" },
+        { "title": "Disrespecting the family’s augments in a way that risks their function", "description": "" },
+        { "title": "Allowing outsiders to witness internal syndicate failures", "description": "" },
+        { "title": "Daring to question the legitimacy of the syndicate’s power", "description": "" },
+        { "title": "Conspiring with rival factions to weaken the syndicate", "description": "" },
+        { "title": "Stealing valuable assets from the syndicate during a vulnerable moment", "description": "" },
+        { "title": "Breaking into a family member’s personal communication network", "description": "" },
+        { "title": "Failing to prevent a rival faction’s incursion into syndicate-controlled territory", "description": "" },
+        { "title": "Falsifying family member reports to enemies", "description": "" },
+        { "title": "Taking advantage of a Little Brother’s naivety", "description": "" },
+        { "title": "Daring to publicly question the syndicate’s methods", "description": "" },
+        { "title": "Interrupting a crucial discussion between Great Sisters", "description": "" },
+        { "title": "Trying to force a Little Brother into submission by making false accusations", "description": "" },
+        { "title": "Attempting to recruit a syndicate member away from their family", "description": "" },
+        { "title": "Exposing the syndicate’s weaknesses to the public", "description": "" },
+        { "title": "Publicly calling the syndicate’s leadership weak", "description": "" },
+        { "title": "Making threats against the Grandfather’s life", "description": "" },
+        { "title": "Letting outsiders infiltrate an important family ceremony", "description": "" }
     ]
 }
+
