@@ -29,7 +29,7 @@
         { "title": "Setting up a false deal with another faction", "description": "" },
         { "title": "Faking loyalty to the syndicate while aiding a rival", "description": "" }
     ],
-    "Section-2》": [
+    "《Section-2》": [
         { "title": "Disrespecting a Great Brother’s territory", "description": "" },
         { "title": "Disparaging the syndicate’s technological superiority", "description": "" },
         { "title": "Openly challenging a Big Sister’s authority", "description": "" },
@@ -57,7 +57,7 @@
         { "title": "Leaving a member stranded during a high-risk mission", "description": "" },
         { "title": "Using the syndicate’s name to threaten others but failing to back it up", "description": "" }
     ],
-    "Section-3》": [
+    "《Section-3》": [
         { "title": "Harming a Little Sister’s reputation publicly", "description": "" },
         { "title": "Hitting a family member where it hurts during negotiations", "description": "" },
         { "title": "Attempting to steal critical information from the syndicate", "description": "" },
@@ -85,7 +85,7 @@
         { "title": "Making threats against the Grandfather’s life", "description": "" },
         { "title": "Letting outsiders infiltrate an important family ceremony", "description": "" }
     ],
-    "Section-4": [
+    "《Section-4》": [
         { "title": "Staring too long at a Little Sister’s augmentations", "description": "" },
         { "title": "Making a joke about the syndicate’s extravagant meals", "description": "" },
         { "title": "Bumping into a member's cybernetic limb without apology", "description": "" },
@@ -116,8 +116,7 @@
         { "title": "Being rude to an outsider in front of the syndicate", "description": "" },
         { "title": "Accidentally spilling something on a Big Sister's dress", "description": "" }
     ],
-
-    "Section-5": [
+    "《Section-5》": [
         { "title": "Overhearing a private conversation and then spreading rumors", "description": "" },
         { "title": "Refusing to hand over an outsider's personal belongings after a confrontation", "description": "" },
         { "title": "Attempting to sell secrets to a rival faction", "description": "" },
@@ -147,8 +146,7 @@
         { "title": "Not reporting a potential threat in the area", "description": "" },
         { "title": "Stealing a Little Brother’s share of the loot", "description": "" }
     ],
-
-    "Section-6": [
+    "《Section-6》": [
         { "title": "Spilling information about a Great Sister’s operation", "description": "" },
         { "title": "Destroying important equipment during a fight", "description": "" },
         { "title": "Bribing a low-level syndicate member for favors", "description": "" },
@@ -176,8 +174,7 @@
         { "title": "Using syndicate technology for personal gain", "description": "" },
         { "title": "Setting up a situation that causes unnecessary conflict", "description": "" }
     ],
-
-    "Section-7": [
+    "《Section-7》": [
         { "title": "Taking too much credit for a successful job", "description": "" },
         { "title": "Taking advantage of a family member’s kindness", "description": "" },
         { "title": "Making a false report about an enemy", "description": "" },
@@ -205,7 +202,7 @@
         { "title": "Letting a rival faction gain an advantage over the syndicate", "description": "" },
         { "title": "Sowing distrust within the family without cause", "description": "" }
     ],
-    "Section-8": [
+    "《Section-8》": [
         { "title": "Forgetting a family member’s birthday", "description": "" },
         { "title": "Leaving someone out of a family group chat", "description": "" },
         { "title": "Not offering to help with a family task when asked", "description": "" },
@@ -233,7 +230,7 @@
         { "title": "Forgetting to reply to a family message", "description": "" },
         { "title": "Not giving credit to someone for their ideas", "description": "" }
     ],
-    "Section-9": [
+    "《Section-9》": [
         { "title": "Snooping through a family member’s personal things", "description": "" },
         { "title": "Lending money to a family member and bringing it up constantly", "description": "" },
         { "title": "Borrowing something without asking first", "description": "" },
@@ -261,7 +258,7 @@
         { "title": "Not taking responsibility when you’ve made a mistake", "description": "" },
         { "title": "Trying to one-up someone’s personal achievement", "description": "" }
     ],
-    "Section-10": [
+    "《Section-10》": [
         { "title": "Accidentally spilling a drink on a family member’s belongings", "description": "" },
         { "title": "Forgetting to bring the dish you promised for a family dinner", "description": "" },
         { "title": "Talking over someone at a family gathering", "description": "" },
@@ -288,7 +285,7 @@
         { "title": "Speaking badly about a family member behind their back", "description": "" },
         { "title": "Forgetting to thank someone for their time or help", "description": "" }
     ],
-    "Section-11": [
+    "《Section-11》": [
         { "title": "Trying to control the music playlist at a family event", "description": "" },
         { "title": "Not helping with a task you offered to do", "description": "" },
         { "title": "Stealing a family member’s food without asking", "description": "" },
@@ -314,7 +311,7 @@
         { "title": "Taking credit for something you didn’t do during a family project", "description": "" },
         { "title": "Forgetting to show appreciation after someone does something for you", "description": "" }
     ],
-    "Section-12": [
+    "《Section-12》": [
         { "title": "Making fun of a family member’s taste in movies or TV shows", "description": "" },
         { "title": "Forgetting to send a thank-you note for a gift", "description": "" },
         { "title": "Not returning a favor you promised to do", "description": "" },
@@ -336,7 +333,7 @@
         { "title": "Not respecting personal space during family gatherings", "description": "" },
         { "title": "Making someone feel uncomfortable by asking personal questions in public", "description": "" }
     ],
-    "Section-13": [
+    "《Section-13》": [
         { "title": "Forgetting a family member's favorite food on their special day", "description": "" },
         { "title": "Not offering to help clean up after a family event", "description": "" },
         { "title": "Making someone feel excluded from a family activity", "description": "" },
@@ -364,7 +361,7 @@
         { "title": "Ignoring a family member's request for help with something simple", "description": "" },
         { "title": "Failing to follow through with a promise made to a family member", "description": "" }
     ],
-    "Section-14": [
+    "《Section-14》": [
         { "title": "Forgetting a family member’s anniversary", "description": "" },
         { "title": "Not offering to share your food when a family member asks", "description": "" },
         { "title": "Interrupting a family member’s story to tell your own", "description": "" },
@@ -391,7 +388,7 @@
         { "title": "Being inconsiderate of someone’s food preferences during a meal", "description": "" },
         { "title": "Not giving a family member a heads-up about a change in plans", "description": "" }
     ],
-    "Section-15": [
+    "《Section-15》": [
         { "title": "Not offering to help when you see someone carrying a heavy load", "description": "" },
         { "title": "Forgetting to ask how a family member’s day went", "description": "" },
         { "title": "Making a family member feel guilty for asking for a favor", "description": "" },
