@@ -1,139 +1,520 @@
 {
     "《Section-1》": [
-        { "title": "Spilling a drink on a Big Brother’s new augmented boots", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours scrubbing the Big Brother’s boots with a toothbrush until they shine perfectly, all while being mocked by others for their clumsiness." },
-        { "title": "Making a sarcastic remark about the Grandfather's leadership", "description": "Sinner is forced to wear a sandwich board in the syndicate's headquarters that reads, \"I was wrong about Grandfather’s leadership\" for the entire day." },
-        { "title": "Refusing to acknowledge a Little Brother's presence", "description": "Sinner is forced to give the Little Brother a personal, overly enthusiastic greeting every time they see them for the next week, no matter the situation." },
-        { "title": "Stealing from the syndicate’s supply stash", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must replace everything they stole and then clean the entire storage area—scrubbing every surface until it’s spotless—while being constantly monitored by the other members." },
-        { "title": "Insulting a Big Sister's intelligence in front of others", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to spend an hour every day for the next week holding a sign that reads, \"Big Sister is always right,\" while doing menial chores around the compound." },
-        { "title": "Publicly mocking the cybernetics of a Great Brother", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to give a public speech on how amazing the Great Brother’s cybernetics are, exaggerating every feature in a way that makes them seem overly perfect." },
-        { "title": "Spreading rumors about the syndicate’s power", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to spend the next few days publicly and loudly spreading the opposite message, praising the syndicate’s power and reinforcing how strong and united the family is." },
-        { "title": "Talking down to a Cousin in front of their family", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is made to stand in the middle of the family gathering and give a heartfelt apology while holding an uncomfortable pose, with everyone watching in silence." },
-        { "title": "Dissing the syndicate’s code in public", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must write an essay on how the syndicate’s code has shaped their success and then read it aloud in front of the entire organization, correcting every part they criticized." },
-        { "title": "Refusing to do business with the faction out of pride", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is assigned the task of making endless copies of important documents for the syndicate, while others critique their “high standards” for business." },
-        { "title": "Attempting to sabotage the syndicate's trade routes", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must personally escort goods on the trade routes for the next month, enduring long, tiring hours in the field while everyone else gets to stay inside." },
-        { "title": "Trying to steal technology from the syndicate’s vaults", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must clean the vault, sorting through all the technology, and organizing everything while being constantly reminded of the theft they tried to commit." },
-        { "title": "Ignoring a Little Sister’s warning", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day doing chores for the Little Sister, ensuring they are always present and attentive to her needs, as a reminder not to ignore her." },
-        { "title": "Disrespecting a Great Sister during a high-profile meeting", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to publicly apologize in front of the same high-profile group, groveling and admitting that they are \"not worthy\" of speaking before the Great Sister." },
-        { "title": "Breaking a deal with the syndicate without warning", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire week writing out \"I will honor every deal\" repeatedly, by hand, while everyone watches and mocks them for their failure to keep their word." },
-        { "title": "Disrupting a family member's event for your own benefit", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must serve drinks and food at the next family event, making sure everyone is well taken care of—while also receiving scorn for their actions." },
-        { "title": "Sending a rival to intimidate the syndicate’s members", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is tasked with personally apologizing to every member of the syndicate that was intimidated, bringing them gifts and showing humility." },
-        { "title": "Engaging in espionage against a Great Brother’s personal interests", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must perform menial tasks for the Great Brother and publicly declare how much they admire the Great Brother's unmatched skills, while avoiding any further betrayal." },
-        { "title": "Accusing a Little Brother of betrayal without proof", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day helping the Little Brother with tasks and apologizing to them in front of the entire family for their baseless accusation." },
-        { "title": "Mocking the syndicate’s traditional feasts", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must cook and serve the next traditional feast, ensuring they follow every ritual and tradition perfectly, while getting scorn for their earlier disrespect." },
-        { "title": "Allowing a rival faction to infiltrate the syndicate’s operations", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours cleaning and checking every corner of the syndicate’s operations to make sure no infiltration remains, all while being watched closely by others." },
-        { "title": "Disrupting a mission assigned to a Big Sister", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to help the Big Sister complete the mission they disrupted, all while enduring critiques and reminders of their mistake." },
-        { "title": "Jeopardizing the syndicate’s reputation for personal gain", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must go to every public event and parade the syndicate’s emblem, loudly singing its praises to everyone they meet, restoring their reputation." },
-        { "title": "Interfering with the syndicate’s influence in the city", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is to be captured and disposed of quietly." },
-        { "title": "Accidentally stepping on a Little Sister's prized item", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend a day cleaning and repairing the Little Sister’s prized item, while apologizing profusely for their carelessness." },
-        { "title": "Publicly accusing the syndicate of weak leadership", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day publicly praising the leadership, making sure to repeat how great the syndicate’s leaders are, as a way to atone for their public remarks." },
-        { "title": "Setting up a false deal with another faction", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours cleaning up the mess they’ve caused, making sure everything is properly re-negotiated and personally dealing with the fallout of their actions." },
-        { "title": "Faking loyalty to the syndicate while aiding a rival", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must endure a long public apology ceremony, performing a humiliating ritual where they demonstrate their true loyalty, while everyone watches in disdain." }
+        {
+            "title": "Spilling a drink on a Big Brother’s new augmented boots",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours scrubbing the Big Brother’s boots with a toothbrush until they shine perfectly, all while being mocked by others for their clumsiness."
+        },
+        {
+            "title": "Making a sarcastic remark about the Grandfather's leadership",
+            "description": "Sinner is forced to wear a sandwich board in the syndicate's headquarters that reads, \"I was wrong about Grandfather’s leadership\" for the entire day."
+        },
+        {
+            "title": "Refusing to acknowledge a Little Brother's presence",
+            "description": "Sinner is forced to give the Little Brother a personal, overly enthusiastic greeting every time they see them for the next week, no matter the situation."
+        },
+        {
+            "title": "Stealing from the syndicate’s supply stash",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must replace everything they stole and then clean the entire storage area—scrubbing every surface until it’s spotless—while being constantly monitored by the other members."
+        },
+        {
+            "title": "Insulting a Big Sister's intelligence in front of others",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to spend an hour every day for the next week holding a sign that reads, \"Big Sister is always right,\" while doing menial chores around the compound."
+        },
+        {
+            "title": "Publicly mocking the cybernetics of a Great Brother",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to give a public speech on how amazing the Great Brother’s cybernetics are, exaggerating every feature in a way that makes them seem overly perfect."
+        },
+        {
+            "title": "Spreading rumors about the syndicate’s power",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to spend the next few days publicly and loudly spreading the opposite message, praising the syndicate’s power and reinforcing how strong and united the family is."
+        },
+        {
+            "title": "Talking down to a Cousin in front of their family",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is made to stand in the middle of the family gathering and give a heartfelt apology while holding an uncomfortable pose, with everyone watching in silence."
+        },
+        {
+            "title": "Dissing the syndicate’s code in public",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must write an essay on how the syndicate’s code has shaped their success and then read it aloud in front of the entire organization, correcting every part they criticized."
+        },
+        {
+            "title": "Refusing to do business with the faction out of pride",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is assigned the task of making endless copies of important documents for the syndicate, while others critique their “high standards” for business."
+        },
+        {
+            "title": "Attempting to sabotage the syndicate's trade routes",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must personally escort goods on the trade routes for the next month, enduring long, tiring hours in the field while everyone else gets to stay inside."
+        },
+        {
+            "title": "Trying to steal technology from the syndicate’s vaults",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must clean the vault, sorting through all the technology, and organizing everything while being constantly reminded of the theft they tried to commit."
+        },
+        {
+            "title": "Ignoring a Little Sister’s warning",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day doing chores for the Little Sister, ensuring they are always present and attentive to her needs, as a reminder not to ignore her."
+        },
+        {
+            "title": "Disrespecting a Great Sister during a high-profile meeting",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to publicly apologize in front of the same high-profile group, groveling and admitting that they are \"not worthy\" of speaking before the Great Sister."
+        },
+        {
+            "title": "Breaking a deal with the syndicate without warning",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire week writing out \"I will honor every deal\" repeatedly, by hand, while everyone watches and mocks them for their failure to keep their word."
+        },
+        {
+            "title": "Disrupting a family member's event for your own benefit",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must serve drinks and food at the next family event, making sure everyone is well taken care of—while also receiving scorn for their actions."
+        },
+        {
+            "title": "Sending a rival to intimidate the syndicate’s members",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is tasked with personally apologizing to every member of the syndicate that was intimidated, bringing them gifts and showing humility."
+        },
+        {
+            "title": "Engaging in espionage against a Great Brother’s personal interests",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must perform menial tasks for the Great Brother and publicly declare how much they admire the Great Brother's unmatched skills, while avoiding any further betrayal."
+        },
+        {
+            "title": "Accusing a Little Brother of betrayal without proof",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day helping the Little Brother with tasks and apologizing to them in front of the entire family for their baseless accusation."
+        },
+        {
+            "title": "Mocking the syndicate’s traditional feasts",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must cook and serve the next traditional feast, ensuring they follow every ritual and tradition perfectly, while getting scorn for their earlier disrespect."
+        },
+        {
+            "title": "Allowing a rival faction to infiltrate the syndicate’s operations",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours cleaning and checking every corner of the syndicate’s operations to make sure no infiltration remains, all while being watched closely by others."
+        },
+        {
+            "title": "Disrupting a mission assigned to a Big Sister",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner has to help the Big Sister complete the mission they disrupted, all while enduring critiques and reminders of their mistake."
+        },
+        {
+            "title": "Jeopardizing the syndicate’s reputation for personal gain",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must go to every public event and parade the syndicate’s emblem, loudly singing its praises to everyone they meet, restoring their reputation."
+        },
+        {
+            "title": "Interfering with the syndicate’s influence in the city",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner is to be captured and disposed of quietly."
+        },
+        {
+            "title": "Accidentally stepping on a Little Sister's prized item",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend a day cleaning and repairing the Little Sister’s prized item, while apologizing profusely for their carelessness."
+        },
+        {
+            "title": "Publicly accusing the syndicate of weak leadership",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend an entire day publicly praising the leadership, making sure to repeat how great the syndicate’s leaders are, as a way to atone for their public remarks."
+        },
+        {
+            "title": "Setting up a false deal with another faction",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours cleaning up the mess they’ve caused, making sure everything is properly re-negotiated and personally dealing with the fallout of their actions."
+        },
+        {
+            "title": "Faking loyalty to the syndicate while aiding a rival",
+            "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must endure a long public apology ceremony, performing a humiliating ritual where they demonstrate their true loyalty, while everyone watches in disdain."
+        }
     ],
     "《Section-2》": [
-        { "title": "Disrespecting a Great Brother’s territory", "description": "The sinner is dragged to the edge of the territory, chained, and forced to endure the harsh elements, while the syndicate watches and mocks their suffering until they beg for forgiveness." },
-        { "title": "Disparaging the syndicate’s technological superiority", "description": "The sinner is bound to a malfunctioning device and forced to endure its failures in front of the syndicate, humiliated by the very technology they mocked." },
-        { "title": "Openly challenging a Big Sister’s authority", "description": "The sinner is made to kneel in the presence of Big Sister and endure a public display of their inferiority, forced to carry out menial tasks for every member of the syndicate." },
-        { "title": "Trying to steal a Cousin’s family heirloom", "description": "The sinner is publicly stripped of their dignity, forced to present the heirloom to the entire syndicate while enduring verbal and physical abuse until their betrayal is fully acknowledged." },
-        { "title": "Attempting to overthrow a Little Brother during a business deal", "description": "The sinner is marked as a traitor, forced to serve Little Brother in every way possible, humiliated by their former associates." },
-        { "title": "Telling lies about a Big Brother’s exploits", "description": "The sinner is forced to sit through the recounting of Big Brother's greatest achievements, enduring mockery from every corner as they acknowledge their falsehoods." },
-        { "title": "Refusing to join forces when the syndicate needs help", "description": "The sinner is isolated in a dangerous, hostile part of the territory, forced to survive alone for days, while the syndicate watches and mocks their failure." },
-        { "title": "Daring to stand against a Great Sister’s orders", "description": "The sinner is placed in a pit and forced to endure public humiliation, performing endless tasks as a reminder of their disobedience." },
-        { "title": "Denying the syndicate the respect it deserves in front of outsiders", "description": "The sinner is paraded through the streets, humiliated by every member of the syndicate, forced to beg outsiders for forgiveness while acknowledging the syndicate’s superiority." },
-        { "title": "Trying to undermine a Big Brother’s leadership in a new territory", "description": "The sinner is tasked with repairing the damage they caused, forced to work under constant surveillance by Big Brother’s enforcers, as punishment for their betrayal." },
-        { "title": "Slandering the Grandfather’s legacy", "description": "The sinner is bound in front of the Grandfather’s memorial and forced to repeatedly praise his achievements while enduring public scorn for their disrespect." },
-        { "title": "Infiltrating a Little Brother’s mission and causing chaos", "description": "The sinner is left stranded in the enemy’s territory, forced to fight their way back while the mission is completed flawlessly without their help, proving their failure." },
-        { "title": "Falsely accusing a Big Sister of an error in judgment", "description": "The sinner is made to sit through a public trial, humiliated by the syndicate, forced to admit their mistake while undergoing physical and mental humiliation." },
-        { "title": "Killing a member of the syndicate and pinning the blame on a rival faction", "description": "The sinner is forced to attend a memorial for the fallen, their crime revealed to the syndicate. They must endure the wrath of their own family, as punishment for their treachery." },
-        { "title": "Getting in the way of the syndicate’s trade deals", "description": "The sinner is left in the most dangerous part of the territory, tasked with repairing the damage they caused while being hunted by enemy factions." },
-        { "title": "Attempting to blackmail a family member into submission", "description": "The sinner is stripped of their rank, forced to carry out menial labor for the family member they attempted to blackmail, while enduring constant ridicule and punishment." },
-        { "title": "Leaving a rival faction to sabotage a Little Sister’s plans", "description": "The sinner must enter enemy-controlled territory, retrieve the sabotaged plans, and return them to Little Sister under constant threat of violence." },
-        { "title": "Mocking the family’s bond in front of the rival factions", "description": "The sinner is forced to publicly apologize, then undergo an extensive series of humiliations, proving their loyalty to the syndicate and family." },
-        { "title": "Sabotaging the syndicate’s operations from within", "description": "The sinner is imprisoned in a high-security facility, forced to work without rest to undo the damage they caused, while being monitored by the syndicate’s enforcers." },
-        { "title": "Disrespecting the syndicate’s rules of conduct in a public space", "description": "The sinner is paraded through the streets, wearing a sign that reads, 'I broke the rules,' enduring verbal and physical humiliation from every member of the syndicate." },
-        { "title": "Not showing proper respect to a Big Sister in front of outsiders", "description": "The sinner is placed in a cage, publicly displaying their lack of respect, while enduring the full scorn of the syndicate and the outsiders." },
-        { "title": "Setting up an ambush against a Little Brother", "description": "The sinner is forced to serve Little Brother in every way, enduring constant supervision as they attempt to redeem themselves for their betrayal." },
-        { "title": "Betraying a Cousin for a rival faction’s gain", "description": "The sinner is bound to a post in front of their Cousin, forced to publicly apologize and undergo humiliating tasks as a sign of their loyalty." },
-        { "title": "Not supporting the syndicate in times of crisis", "description": "The sinner is tasked with carrying out the most dangerous mission, facing constant danger while the syndicate watches, to prove their commitment to the cause." },
-        { "title": "Leaving a member stranded during a high-risk mission", "description": "The sinner is forced to rescue the stranded member, their failure to do so resulting in severe physical punishment, as a lesson in loyalty." },
-        { "title": "Using the syndicate’s name to threaten others but failing to back it up", "description": "The sinner is made to walk through enemy territory, their actions broadcast to the rivals, proving their failure to live up to the syndicate's name." }
+        {
+            "title": "Disrespecting a Great Brother’s territory",
+            "description": "The sinner is dragged to the edge of the territory, chained, and forced to endure the harsh elements, while the syndicate watches and mocks their suffering until they beg for forgiveness."
+        },
+        {
+            "title": "Disparaging the syndicate’s technological superiority",
+            "description": "The sinner is bound to a malfunctioning device and forced to endure its failures in front of the syndicate, humiliated by the very technology they mocked."
+        },
+        {
+            "title": "Openly challenging a Big Sister’s authority",
+            "description": "The sinner is made to kneel in the presence of Big Sister and endure a public display of their inferiority, forced to carry out menial tasks for every member of the syndicate."
+        },
+        {
+            "title": "Trying to steal a Cousin’s family heirloom",
+            "description": "The sinner is publicly stripped of their dignity, forced to present the heirloom to the entire syndicate while enduring verbal and physical abuse until their betrayal is fully acknowledged."
+        },
+        {
+            "title": "Attempting to overthrow a Little Brother during a business deal",
+            "description": "The sinner is marked as a traitor, forced to serve Little Brother in every way possible, humiliated by their former associates."
+        },
+        {
+            "title": "Telling lies about a Big Brother’s exploits",
+            "description": "The sinner is forced to sit through the recounting of Big Brother's greatest achievements, enduring mockery from every corner as they acknowledge their falsehoods."
+        },
+        {
+            "title": "Refusing to join forces when the syndicate needs help",
+            "description": "The sinner is isolated in a dangerous, hostile part of the territory, forced to survive alone for days, while the syndicate watches and mocks their failure."
+        },
+        {
+            "title": "Daring to stand against a Great Sister’s orders",
+            "description": "The sinner is placed in a pit and forced to endure public humiliation, performing endless tasks as a reminder of their disobedience."
+        },
+        {
+            "title": "Denying the syndicate the respect it deserves in front of outsiders",
+            "description": "The sinner is paraded through the streets, humiliated by every member of the syndicate, forced to beg outsiders for forgiveness while acknowledging the syndicate’s superiority."
+        },
+        {
+            "title": "Trying to undermine a Big Brother’s leadership in a new territory",
+            "description": "The sinner is tasked with repairing the damage they caused, forced to work under constant surveillance by Big Brother’s enforcers, as punishment for their betrayal."
+        },
+        {
+            "title": "Slandering the Grandfather’s legacy",
+            "description": "The sinner is bound in front of the Grandfather’s memorial and forced to repeatedly praise his achievements while enduring public scorn for their disrespect."
+        },
+        {
+            "title": "Infiltrating a Little Brother’s mission and causing chaos",
+            "description": "The sinner is left stranded in the enemy’s territory, forced to fight their way back while the mission is completed flawlessly without their help, proving their failure."
+        },
+        {
+            "title": "Falsely accusing a Big Sister of an error in judgment",
+            "description": "The sinner is made to sit through a public trial, humiliated by the syndicate, forced to admit their mistake while undergoing physical and mental humiliation."
+        },
+        {
+            "title": "Killing a member of the syndicate and pinning the blame on a rival faction",
+            "description": "The sinner is forced to attend a memorial for the fallen, their crime revealed to the syndicate. They must endure the wrath of their own family, as punishment for their treachery."
+        },
+        {
+            "title": "Getting in the way of the syndicate’s trade deals",
+            "description": "The sinner is left in the most dangerous part of the territory, tasked with repairing the damage they caused while being hunted by enemy factions."
+        },
+        {
+            "title": "Attempting to blackmail a family member into submission",
+            "description": "The sinner is stripped of their rank, forced to carry out menial labor for the family member they attempted to blackmail, while enduring constant ridicule and punishment."
+        },
+        {
+            "title": "Leaving a rival faction to sabotage a Little Sister’s plans",
+            "description": "The sinner must enter enemy-controlled territory, retrieve the sabotaged plans, and return them to Little Sister under constant threat of violence."
+        },
+        {
+            "title": "Mocking the family’s bond in front of the rival factions",
+            "description": "The sinner is forced to publicly apologize, then undergo an extensive series of humiliations, proving their loyalty to the syndicate and family."
+        },
+        {
+            "title": "Sabotaging the syndicate’s operations from within",
+            "description": "The sinner is imprisoned in a high-security facility, forced to work without rest to undo the damage they caused, while being monitored by the syndicate’s enforcers."
+        },
+        {
+            "title": "Disrespecting the syndicate’s rules of conduct in a public space",
+            "description": "The sinner is paraded through the streets, wearing a sign that reads, 'I broke the rules,' enduring verbal and physical humiliation from every member of the syndicate."
+        },
+        {
+            "title": "Not showing proper respect to a Big Sister in front of outsiders",
+            "description": "The sinner is placed in a cage, publicly displaying their lack of respect, while enduring the full scorn of the syndicate and the outsiders."
+        },
+        {
+            "title": "Setting up an ambush against a Little Brother",
+            "description": "The sinner is forced to serve Little Brother in every way, enduring constant supervision as they attempt to redeem themselves for their betrayal."
+        },
+        {
+            "title": "Betraying a Cousin for a rival faction’s gain",
+            "description": "The sinner is bound to a post in front of their Cousin, forced to publicly apologize and undergo humiliating tasks as a sign of their loyalty."
+        },
+        {
+            "title": "Not supporting the syndicate in times of crisis",
+            "description": "The sinner is tasked with carrying out the most dangerous mission, facing constant danger while the syndicate watches, to prove their commitment to the cause."
+        },
+        {
+            "title": "Leaving a member stranded during a high-risk mission",
+            "description": "The sinner is forced to rescue the stranded member, their failure to do so resulting in severe physical punishment, as a lesson in loyalty."
+        },
+        {
+            "title": "Using the syndicate’s name to threaten others but failing to back it up",
+            "description": "The sinner is made to walk through enemy territory, their actions broadcast to the rivals, proving their failure to live up to the syndicate's name."
+        }
     ],
     "《Section-3》": [
-        { "title": "Harming a Little Sister’s reputation publicly", "description": "The sinner is forced to walk through the streets with a banner that reads, 'I harmed Little Sister’s reputation,' while enduring physical and verbal abuse from every passerby." },
-        { "title": "Hitting a family member where it hurts during negotiations", "description": "The sinner is made to work for the family member they harmed, enduring constant humiliation and labor as punishment for their dishonorable actions." },
-        { "title": "Attempting to steal critical information from the syndicate", "description": "The sinner is bound to a chair, forced to watch every piece of information they tried to steal be recovered, while they endure punishment for their betrayal." },
-        { "title": "Infiltrating the syndicate’s personal affairs without authorization", "description": "The sinner is locked in a room with no means of escape, forced to reflect on their actions as they undergo mental and physical tests." },
-        { "title": "Assaulting a Big Brother without provocation", "description": "The sinner is forced to endure a brutal trial by combat, where every action is watched by the syndicate, proving their worth after the assault." },
-        { "title": "Degrading the syndicate’s traditions in front of outside enemies", "description": "The sinner is forced to demonstrate the strength of the syndicate’s traditions in front of outsiders, enduring public scrutiny as they prove their respect." },
-        { "title": "Attempting to undermine the Grandfather’s authority in a public forum", "description": "The sinner is publicly humiliated, forced to recite the Grandfather’s greatest achievements, while enduring ridicule from the syndicate." },
-        { "title": "Making deals with factions that are known enemies of the syndicate", "description": "The sinner is stripped of their title and forced to break every deal they made with the rival factions, enduring public humiliation for their actions." },
-        { "title": "Infiltrating a faction member’s personal life for blackmail", "description": "The sinner is forced to publicly expose every secret they uncovered, enduring physical and verbal abuse from their own family as punishment for their betrayal." },
-        { "title": "Disrespecting the family’s augments in a way that risks their function", "description": "The sinner is forced to repair the augments they damaged, with their every failure broadcasted for the syndicate to witness, ensuring they learn the consequences of their actions." },
-        { "title": "Allowing outsiders to witness internal syndicate failures", "description": "The sinner is placed in a public arena, forced to apologize for every mistake, while the syndicate looks on, ensuring they never forget their failure." },
-        { "title": "Daring to question the legitimacy of the syndicate’s power", "description": "The sinner must publicly recant every word spoken, kneeling before the syndicate and proving their loyalty with physical and mental tests." },
-        { "title": "Conspiring with rival factions to weaken the syndicate", "description": "The sinner is forced to expose every conspiracy, enduring severe punishment as they work to reverse the damage they caused." },
-        { "title": "Stealing valuable assets from the syndicate during a vulnerable moment", "description": "The sinner is bound and made to watch as the stolen assets are returned, enduring harsh punishment until they’ve paid for their betrayal." },
-        { "title": "Breaking into a family member’s personal communication network", "description": "The sinner is forced to publicly apologize and return every piece of stolen information, enduring humiliation from the family they violated." },
-        { "title": "Failing to prevent a rival faction’s incursion into syndicate-controlled territory", "description": "The sinner must stand guard over the territory, ensuring no further incursions take place, while enduring punishment for their failure to protect the syndicate." },
-        { "title": "Falsifying family member reports to enemies", "description": "The sinner must correct every false report, enduring public ridicule and punishment until they’ve repaired the damage they’ve caused." }
+        {
+            "title": "Harming a Little Sister’s reputation publicly",
+            "description": "The sinner is forced to walk through the streets with a banner that reads, 'I harmed Little Sister’s reputation,' while enduring physical and verbal abuse from every passerby."
+        },
+        {
+            "title": "Hitting a family member where it hurts during negotiations",
+            "description": "The sinner is made to work for the family member they harmed, enduring constant humiliation and labor as punishment for their dishonorable actions."
+        },
+        {
+            "title": "Attempting to steal critical information from the syndicate",
+            "description": "The sinner is bound to a chair, forced to watch every piece of information they tried to steal be recovered, while they endure punishment for their betrayal."
+        },
+        {
+            "title": "Infiltrating the syndicate’s personal affairs without authorization",
+            "description": "The sinner is locked in a room with no means of escape, forced to reflect on their actions as they undergo mental and physical tests."
+        },
+        {
+            "title": "Assaulting a Big Brother without provocation",
+            "description": "The sinner is forced to endure a brutal trial by combat, where every action is watched by the syndicate, proving their worth after the assault."
+        },
+        {
+            "title": "Degrading the syndicate’s traditions in front of outside enemies",
+            "description": "The sinner is forced to demonstrate the strength of the syndicate’s traditions in front of outsiders, enduring public scrutiny as they prove their respect."
+        },
+        {
+            "title": "Attempting to undermine the Grandfather’s authority in a public forum",
+            "description": "The sinner is publicly humiliated, forced to recite the Grandfather’s greatest achievements, while enduring ridicule from the syndicate."
+        },
+        {
+            "title": "Making deals with factions that are known enemies of the syndicate",
+            "description": "The sinner is stripped of their title and forced to break every deal they made with the rival factions, enduring public humiliation for their actions."
+        },
+        {
+            "title": "Infiltrating a faction member’s personal life for blackmail",
+            "description": "The sinner is forced to publicly expose every secret they uncovered, enduring physical and verbal abuse from their own family as punishment for their betrayal."
+        },
+        {
+            "title": "Disrespecting the family’s augments in a way that risks their function",
+            "description": "The sinner is forced to repair the augments they damaged, with their every failure broadcasted for the syndicate to witness, ensuring they learn the consequences of their actions."
+        },
+        {
+            "title": "Allowing outsiders to witness internal syndicate failures",
+            "description": "The sinner is placed in a public arena, forced to apologize for every mistake, while the syndicate looks on, ensuring they never forget their failure."
+        },
+        {
+            "title": "Daring to question the legitimacy of the syndicate’s power",
+            "description": "The sinner must publicly recant every word spoken, kneeling before the syndicate and proving their loyalty with physical and mental tests."
+        },
+        {
+            "title": "Conspiring with rival factions to weaken the syndicate",
+            "description": "The sinner is forced to expose every conspiracy, enduring severe punishment as they work to reverse the damage they caused."
+        },
+        {
+            "title": "Stealing valuable assets from the syndicate during a vulnerable moment",
+            "description": "The sinner is bound and made to watch as the stolen assets are returned, enduring harsh punishment until they’ve paid for their betrayal."
+        },
+        {
+            "title": "Breaking into a family member’s personal communication network",
+            "description": "The sinner is forced to publicly apologize and return every piece of stolen information, enduring humiliation from the family they violated."
+        },
+        {
+            "title": "Failing to prevent a rival faction’s incursion into syndicate-controlled territory",
+            "description": "The sinner must stand guard over the territory, ensuring no further incursions take place, while enduring punishment for their failure to protect the syndicate."
+        },
+        {
+            "title": "Falsifying family member reports to enemies",
+            "description": "The sinner must correct every false report, enduring public ridicule and punishment until they’ve repaired the damage they’ve caused."
+        }
     ],
     "《Section-4》": [
-        { "title": "Staring too long at a Little Sister’s augmentations", "description": "The sinner is to have their eyes removed as penance for their blatant perversion" },
-        { "title": "Making a joke about the syndicate’s extravagant meals", "description": "The sinner is forced to eat the very food they mocked, in excess, until they regret their words." },
-        { "title": "Bumping into a member's cybernetic limb without apology", "description": "The sinner is made to walk alongside the member for hours, constantly apologizing while enduring mockery and ridicule from others." },
-        { "title": "Not offering to help a Big Brother with their gear", "description": "The sinner is made to carry the Big Brother’s gear for an entire week, performing tasks in complete silence under constant supervision." },
-        { "title": "Leaving a restaurant without paying your share", "description": "The sinner is forced to clean the entire restaurant while being monitored by the syndicate, ensuring they understand the value of paying their dues." },
-        { "title": "Telling a Cousin that they’re not strong enough for the job", "description": "The sinner is to have their bones broken thoroughly." },
-        { "title": "Breaking a piece of syndicate equipment by mistake and not fessing up", "description": "The sinner is forced to repair the equipment and then having all their chrome forcefully removed." },
-        { "title": "Accidentally stepping on a Great Brother’s augmented leg", "description": "The sinner is forced to kneel and apologize for their mistake in front of the syndicate, then perform servitude for the Great Brother for an extended period." },
-        { "title": "Playing loud music near a syndicate member’s residence", "description": "The sinner is made to endure the same loud music at a high volume while being forced to complete menial labor around the member’s residence." },
-        { "title": "Not holding the door open for a Big Sister", "description": "The sinner is forced to spend an entire day performing tasks for Big Sister, apologizing with every action while enduring mockery." },
-        { "title": "Talking over a Great Sister during a conversation", "description": "The sinner is forced to remain silent and listen to every word of the conversation for hours, while enduring harsh verbal reprimands." },
-        { "title": "Hogging a vehicle meant for a Big Brother’s use", "description": "The sinner is made to walk alongside the vehicle for an entire day, enduring ridicule from the syndicate for their selfishness." },
-        { "title": "Not offering to clean up after a family event", "description": "The sinner is forced to clean the entire venue alone, enduring public scorn and constant reminders of their failure to contribute." },
-        { "title": "Forgetting to bring a gift for a member’s birthday", "description": "The sinner is tasked with performing an extravagant task for the member they failed to honor, enduring public shame as they work." },
-        { "title": "Publicly insulting a Cousin’s cooking skills", "description": "The sinner is forced to eat the meal they insulted in front of the entire syndicate, then spend the rest of the day cleaning the kitchen as a sign of humility." },
-        { "title": "Mispronouncing a Little Brother’s name in front of others", "description": "The sinner must perform a public speech, apologizing for their mistake, while being interrupted and corrected by others." },
-        { "title": "Showing up late to a syndicate gathering", "description": "The sinner is made to stand in the center of the gathering and apologize in front of everyone, then perform menial tasks for the group to redeem their tardiness." },
-        { "title": "Messing up a toast during a syndicate ceremony", "description": "The sinner is made to give the toast again, this time with more scrutiny and under the watchful eyes of every syndicate member." },
-        { "title": "Not thanking a Great Sister for her assistance", "description": "The sinner is forced to serve the Great Sister for a day, apologizing for their lack of gratitude with every action." },
-        { "title": "Leaving food out in the syndicate’s communal areas", "description": "The sinner is tasked with cleaning the entire area while enduring ridicule for their negligence." },
-        { "title": "Wearing the wrong attire at a family function", "description": "The sinner is made to wear a humiliating outfit for the duration of the event and perform tasks to redeem their lapse in judgment." },
-        { "title": "Forgetting a family member's anniversary", "description": "The sinner is forced to recreate the perfect anniversary celebration, apologizing with every detail while enduring the disdain of their family." },
-        { "title": "Getting a member's favorite drink wrong", "description": "The sinner is made to serve the member their favorite drink repeatedly until they memorize it perfectly, enduring ridicule until they get it right." },
-        { "title": "Talking negatively about a Big Brother's appearance", "description": "The sinner is forced to spend the day serving Big Brother, constantly complimenting them and humbling themselves for their disrespectful words." },
-        { "title": "Making fun of a member’s personal augmentations", "description": "The sinner is made to undergo the same augmentations while enduring ridicule and public scorn, learning the value of respect." },
-        { "title": "Not helping a family member with a minor task", "description": "The sinner is forced to perform the task and more, under constant observation, until they prove their commitment to helping the family." },
-        { "title": "Messing up a family member's cybernetic calibration", "description": "The sinner is made to repair the damage and undergo a series of tests to prove they can do the job without error, humiliated by their failure." },
-        { "title": "Accidentally spilling something on a Big Sister's dress", "description": "The sinner is forced to clean the dress while being supervised, and is to be tossed aside after taking away all their valuables" }
+        {
+            "title": "Staring too long at a Little Sister’s augmentations",
+            "description": "The sinner is to have their eyes removed as penance for their blatant perversion"
+        },
+        {
+            "title": "Making a joke about the syndicate’s extravagant meals",
+            "description": "The sinner is forced to eat the very food they mocked, in excess, until they regret their words."
+        },
+        {
+            "title": "Bumping into a member's cybernetic limb without apology",
+            "description": "The sinner is made to walk alongside the member for hours, constantly apologizing while enduring mockery and ridicule from others."
+        },
+        {
+            "title": "Not offering to help a Big Brother with their gear",
+            "description": "The sinner is made to carry the Big Brother’s gear for an entire week, performing tasks in complete silence under constant supervision."
+        },
+        {
+            "title": "Leaving a restaurant without paying your share",
+            "description": "The sinner is forced to clean the entire restaurant while being monitored by the syndicate, ensuring they understand the value of paying their dues."
+        },
+        {
+            "title": "Telling a Cousin that they’re not strong enough for the job",
+            "description": "The sinner is to have their bones broken thoroughly."
+        },
+        {
+            "title": "Breaking a piece of syndicate equipment by mistake and not fessing up",
+            "description": "The sinner is forced to repair the equipment and then having all their chrome forcefully removed."
+        },
+        {
+            "title": "Accidentally stepping on a Great Brother’s augmented leg",
+            "description": "The sinner is forced to kneel and apologize for their mistake in front of the syndicate, then perform servitude for the Great Brother for an extended period."
+        },
+        {
+            "title": "Playing loud music near a syndicate member’s residence",
+            "description": "The sinner is made to endure the same loud music at a high volume while being forced to complete menial labor around the member’s residence."
+        },
+        {
+            "title": "Not holding the door open for a Big Sister",
+            "description": "The sinner is forced to spend an entire day performing tasks for Big Sister, apologizing with every action while enduring mockery."
+        },
+        {
+            "title": "Talking over a Great Sister during a conversation",
+            "description": "The sinner is forced to remain silent and listen to every word of the conversation for hours, while enduring harsh verbal reprimands."
+        },
+        {
+            "title": "Hogging a vehicle meant for a Big Brother’s use",
+            "description": "The sinner is made to walk alongside the vehicle for an entire day, enduring ridicule from the syndicate for their selfishness."
+        },
+        {
+            "title": "Not offering to clean up after a family event",
+            "description": "The sinner is forced to clean the entire venue alone, enduring public scorn and constant reminders of their failure to contribute."
+        },
+        {
+            "title": "Forgetting to bring a gift for a member’s birthday",
+            "description": "The sinner is tasked with performing an extravagant task for the member they failed to honor, enduring public shame as they work."
+        },
+        {
+            "title": "Publicly insulting a Cousin’s cooking skills",
+            "description": "The sinner is forced to eat the meal they insulted in front of the entire syndicate, then spend the rest of the day cleaning the kitchen as a sign of humility."
+        },
+        {
+            "title": "Mispronouncing a Little Brother’s name in front of others",
+            "description": "The sinner must perform a public speech, apologizing for their mistake, while being interrupted and corrected by others."
+        },
+        {
+            "title": "Showing up late to a syndicate gathering",
+            "description": "The sinner is made to stand in the center of the gathering and apologize in front of everyone, then perform menial tasks for the group to redeem their tardiness."
+        },
+        {
+            "title": "Messing up a toast during a syndicate ceremony",
+            "description": "The sinner is made to give the toast again, this time with more scrutiny and under the watchful eyes of every syndicate member."
+        },
+        {
+            "title": "Not thanking a Great Sister for her assistance",
+            "description": "The sinner is forced to serve the Great Sister for a day, apologizing for their lack of gratitude with every action."
+        },
+        {
+            "title": "Leaving food out in the syndicate’s communal areas",
+            "description": "The sinner is tasked with cleaning the entire area while enduring ridicule for their negligence."
+        },
+        {
+            "title": "Wearing the wrong attire at a family function",
+            "description": "The sinner is made to wear a humiliating outfit for the duration of the event and perform tasks to redeem their lapse in judgment."
+        },
+        {
+            "title": "Forgetting a family member's anniversary",
+            "description": "The sinner is forced to recreate the perfect anniversary celebration, apologizing with every detail while enduring the disdain of their family."
+        },
+        {
+            "title": "Getting a member's favorite drink wrong",
+            "description": "The sinner is made to serve the member their favorite drink repeatedly until they memorize it perfectly, enduring ridicule until they get it right."
+        },
+        {
+            "title": "Talking negatively about a Big Brother's appearance",
+            "description": "The sinner is forced to spend the day serving Big Brother, constantly complimenting them and humbling themselves for their disrespectful words."
+        },
+        {
+            "title": "Making fun of a member’s personal augmentations",
+            "description": "The sinner is made to undergo the same augmentations while enduring ridicule and public scorn, learning the value of respect."
+        },
+        {
+            "title": "Not helping a family member with a minor task",
+            "description": "The sinner is forced to perform the task and more, under constant observation, until they prove their commitment to helping the family."
+        },
+        {
+            "title": "Messing up a family member's cybernetic calibration",
+            "description": "The sinner is made to repair the damage and undergo a series of tests to prove they can do the job without error, humiliated by their failure."
+        },
+        {
+            "title": "Accidentally spilling something on a Big Sister's dress",
+            "description": "The sinner is forced to clean the dress while being supervised, and is to be tossed aside after taking away all their valuables"
+        }
     ],
     "《Section-5》": [
-        { "title": "Overhearing a private conversation and then spreading rumors", "description": "The sinner is forced to publicly recant every rumor and endure punishment for each one, proving their loyalty to the syndicate’s secrets." },
-        { "title": "Refusing to hand over an outsider's personal belongings after a confrontation", "description": "The sinner is made to return the belongings in a public forum, enduring constant mockery and reprimands from the syndicate." },
-        { "title": "Attempting to sell secrets to a rival faction", "description": "The sinner is forced to admit their betrayal in front of the syndicate, then undergo physical punishment to prove their loyalty." },
-        { "title": "Refusing to cooperate with a Big Sister’s investigation", "description": "The sinner is forced to undergo a grueling interrogation, answering every question under intense pressure, until they fully cooperate." },
-        { "title": "Forgetting to respond to a Little Brother’s distress call", "description": "The sinner is made to serve Little Brother for an extended period, constantly apologizing for their failure while performing tasks to redeem themselves." },
-        { "title": "Delaying a crucial shipment for personal gain", "description": "The sinner is forced to personally deliver the shipment under harsh conditions, with the syndicate watching their every move." },
-        { "title": "Misplacing a family heirloom during a mission", "description": "The sinner is forced to recover the heirloom under dangerous conditions, enduring severe punishment for their carelessness." },
-        { "title": "Not informing a Cousin of a meeting time change", "description": "The sinner is forced to endure a public apology, followed by hours of menial labor for the Cousin they neglected." },
-        { "title": "Calling a Little Brother too weak in front of the family", "description": "The sinner is forced to undergo an intense physical challenge alongside Little Brother, proving their strength and humility." },
-        { "title": "Forcing a member to do your dirty work", "description": "The sinner is made to complete the dirty work themselves, while being humiliated for their manipulation." },
-        { "title": "Neglecting to deliver on a promise made to a Big Sister", "description": "The sinner is forced to complete the task under intense supervision, with every failure resulting in additional punishment." },
-        { "title": "Sending a Lesser faction to intimidate the syndicate", "description": "The sinner is forced to lead the faction into a perilous mission, facing consequences for their arrogance and failure." },
-        { "title": "Sabotaging a mission by being unprepared", "description": "The sinner is forced to correct their mistakes under harsh conditions, while the syndicate watches and critiques their every move." },
-        { "title": "Over-promising and under-delivering to a Great Brother", "description": "The sinner is forced to work under the Great Brother’s supervision until they complete every task perfectly, proving their reliability." },
-        { "title": "Trying to steal a Little Sister’s clients", "description": "The sinner is made to apologize publicly and work under Little Sister’s guidance for an extended period, ensuring they learn respect." },
-        { "title": "Accidentally deleting important syndicate files", "description": "The sinner must recover every lost file under strict surveillance, proving their competence and worth to the syndicate." },
-        { "title": "Making false claims about a Great Brother's past", "description": "The sinner must spend hours recounting the true history of the Great Brother’s achievements, enduring humiliation for their lies." },
-        { "title": "Not bringing enough reinforcements to a high-risk job", "description": "The sinner is forced to complete the job alone, under constant threat of failure, while the syndicate watches and critiques." },
-        { "title": "Refusing to let a member speak their mind in a discussion", "description": "The sinner must remain silent and listen for hours, forced to reflect on their mistake and apologize repeatedly." },
-        { "title": "Attempting to deceive the syndicate by altering evidence", "description": "The sinner is exposed publicly and forced to confess their deception while undergoing physical and psychological punishment." },
-        { "title": "Mishandling an important transaction that involves the syndicate", "description": "The sinner is forced to personally undo the damage and complete the transaction under intense scrutiny." },
-        { "title": "Forcing a member to stay in an unsafe area", "description": "The sinner is forced to endure the same danger, proving their selfishness and suffering the same consequences." },
-        { "title": "Lying about the location of a hidden stash", "description": "The sinner is made to recover the stash and publicly admit their lie while enduring harsh punishment from the syndicate." },
-        { "title": "Ignoring the advice of a Little Brother during a mission", "description": "The sinner is forced to perform the mission again with Little Brother, ensuring they listen and learn from the mistake." },
-        { "title": "Faking illness to avoid responsibility during a job", "description": "The sinner is forced to carry out the job under dangerous conditions, proving their loyalty by completing it without complaint." },
-        { "title": "Ignoring a Big Sister’s request for backup", "description": "The sinner must perform every task Big Sister requests, enduring constant surveillance and public mockery." },
-        { "title": "Not reporting a potential threat in the area", "description": "The sinner is forced to patrol the area themselves, ensuring they never ignore a threat again." },
-        { "title": "Stealing a Little Brother’s share of the loot", "description": "The sinner is forced to give up their own loot to compensate Little Brother, while performing menial tasks as a reminder of their greed." }
+        {
+            "title": "Overhearing a private conversation and then spreading rumors",
+            "description": "The sinner is forced to publicly recant every rumor and endure punishment for each one, proving their loyalty to the syndicate’s secrets."
+        },
+        {
+            "title": "Refusing to hand over an outsider's personal belongings after a confrontation",
+            "description": "The sinner is made to return the belongings in a public forum, enduring constant mockery and reprimands from the syndicate."
+        },
+        {
+            "title": "Attempting to sell secrets to a rival faction",
+            "description": "The sinner is forced to admit their betrayal in front of the syndicate, then undergo physical punishment to prove their loyalty."
+        },
+        {
+            "title": "Refusing to cooperate with a Big Sister’s investigation",
+            "description": "The sinner is forced to undergo a grueling interrogation, answering every question under intense pressure, until they fully cooperate."
+        },
+        {
+            "title": "Forgetting to respond to a Little Brother’s distress call",
+            "description": "The sinner is made to serve Little Brother for an extended period, constantly apologizing for their failure while performing tasks to redeem themselves."
+        },
+        {
+            "title": "Delaying a crucial shipment for personal gain",
+            "description": "The sinner is forced to personally deliver the shipment under harsh conditions, with the syndicate watching their every move."
+        },
+        {
+            "title": "Misplacing a family heirloom during a mission",
+            "description": "The sinner is forced to recover the heirloom under dangerous conditions, enduring severe punishment for their carelessness."
+        },
+        {
+            "title": "Not informing a Cousin of a meeting time change",
+            "description": "The sinner is forced to endure a public apology, followed by hours of menial labor for the Cousin they neglected."
+        },
+        {
+            "title": "Calling a Little Brother too weak in front of the family",
+            "description": "The sinner is forced to undergo an intense physical challenge alongside Little Brother, proving their strength and humility."
+        },
+        {
+            "title": "Forcing a member to do your dirty work",
+            "description": "The sinner is made to complete the dirty work themselves, while being humiliated for their manipulation."
+        },
+        {
+            "title": "Neglecting to deliver on a promise made to a Big Sister",
+            "description": "The sinner is forced to complete the task under intense supervision, with every failure resulting in additional punishment."
+        },
+        {
+            "title": "Sending a Lesser faction to intimidate the syndicate",
+            "description": "The sinner is forced to lead the faction into a perilous mission, facing consequences for their arrogance and failure."
+        },
+        {
+            "title": "Sabotaging a mission by being unprepared",
+            "description": "The sinner is forced to correct their mistakes under harsh conditions, while the syndicate watches and critiques their every move."
+        },
+        {
+            "title": "Over-promising and under-delivering to a Great Brother",
+            "description": "The sinner is forced to work under the Great Brother’s supervision until they complete every task perfectly, proving their reliability."
+        },
+        {
+            "title": "Trying to steal a Little Sister’s clients",
+            "description": "The sinner is made to apologize publicly and work under Little Sister’s guidance for an extended period, ensuring they learn respect."
+        },
+        {
+            "title": "Accidentally deleting important syndicate files",
+            "description": "The sinner must recover every lost file under strict surveillance, proving their competence and worth to the syndicate."
+        },
+        {
+            "title": "Making false claims about a Great Brother's past",
+            "description": "The sinner must spend hours recounting the true history of the Great Brother’s achievements, enduring humiliation for their lies."
+        },
+        {
+            "title": "Not bringing enough reinforcements to a high-risk job",
+            "description": "The sinner is forced to complete the job alone, under constant threat of failure, while the syndicate watches and critiques."
+        },
+        {
+            "title": "Refusing to let a member speak their mind in a discussion",
+            "description": "The sinner must remain silent and listen for hours, forced to reflect on their mistake and apologize repeatedly."
+        },
+        {
+            "title": "Attempting to deceive the syndicate by altering evidence",
+            "description": "The sinner is exposed publicly and forced to confess their deception while undergoing physical and psychological punishment."
+        },
+        {
+            "title": "Mishandling an important transaction that involves the syndicate",
+            "description": "The sinner is forced to personally undo the damage and complete the transaction under intense scrutiny."
+        },
+        {
+            "title": "Forcing a member to stay in an unsafe area",
+            "description": "The sinner is forced to endure the same danger, proving their selfishness and suffering the same consequences."
+        },
+        {
+            "title": "Lying about the location of a hidden stash",
+            "description": "The sinner is made to recover the stash and publicly admit their lie while enduring harsh punishment from the syndicate."
+        },
+        {
+            "title": "Ignoring the advice of a Little Brother during a mission",
+            "description": "The sinner is forced to perform the mission again with Little Brother, ensuring they listen and learn from the mistake."
+        },
+        {
+            "title": "Faking illness to avoid responsibility during a job",
+            "description": "The sinner is forced to carry out the job under dangerous conditions, proving their loyalty by completing it without complaint."
+        },
+        {
+            "title": "Ignoring a Big Sister’s request for backup",
+            "description": "The sinner must perform every task Big Sister requests, enduring constant surveillance and public mockery."
+        },
+        {
+            "title": "Not reporting a potential threat in the area",
+            "description": "The sinner is forced to patrol the area themselves, ensuring they never ignore a threat again."
+        },
+        {
+            "title": "Stealing a Little Brother’s share of the loot",
+            "description": "The sinner is forced to give up their own loot to compensate Little Brother, while performing menial tasks as a reminder of their greed."
+        }
     ]
 }
