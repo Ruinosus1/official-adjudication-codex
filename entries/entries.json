@@ -29,7 +29,6 @@
         { "title": "Setting up a false deal with another faction", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must spend hours cleaning up the mess they’ve caused, making sure everything is properly re-negotiated and personally dealing with the fallout of their actions." },
         { "title": "Faking loyalty to the syndicate while aiding a rival", "description": "﹥𝙿𝚄𝙽𝙸𝚂𝙷𝙼𝙴𝙽𝚃: Sinner must endure a long public apology ceremony, performing a humiliating ritual where they demonstrate their true loyalty, while everyone watches in disdain." }
     ],
-   {
     "《Section-2》": [
         { "title": "Disrespecting a Great Brother’s territory", "description": "The sinner is dragged to the edge of the territory, chained, and forced to endure the harsh elements, while the syndicate watches and mocks their suffering until they beg for forgiveness." },
         { "title": "Disparaging the syndicate’s technological superiority", "description": "The sinner is bound to a malfunctioning device and forced to endure its failures in front of the syndicate, humiliated by the very technology they mocked." },
@@ -137,3 +136,4 @@
         { "title": "Not reporting a potential threat in the area", "description": "The sinner is forced to patrol the area themselves, ensuring they never ignore a threat again." },
         { "title": "Stealing a Little Brother’s share of the loot", "description": "The sinner is forced to give up their own loot to compensate Little Brother, while performing menial tasks as a reminder of their greed." }
     ]
+}
